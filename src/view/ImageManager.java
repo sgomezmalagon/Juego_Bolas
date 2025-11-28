@@ -9,7 +9,6 @@ import java.awt.Dimension;
 import java.util.*;
 
 // Clase sencilla para cargar y guardar imágenes usadas por la vista
-// Comentado en plan estudiante: tiene métodos estáticos para guardar el fondo y la/s textura/s de bolas.
 public class ImageManager {
     private static BufferedImage background; // imagen de fondo (original)
 
