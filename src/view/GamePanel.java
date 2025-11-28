@@ -23,7 +23,6 @@ import java.util.Set;
 import java.awt.image.BufferedImage;
 
 // Panel que pinta el juego
-// Aquí explico qué hace cada parte para que sea fácil de entender.
 public class GamePanel extends JPanel {
     private final GameModel model;
     // Guardamos las teclas presionadas para saber qué direccion quiere el jugador
