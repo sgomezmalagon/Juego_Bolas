@@ -2,7 +2,6 @@
  * GamePanel (MVC - Vista)
  * - Este panel pinta TODO lo que se ve del juego: fondo, habitación, bolas y naves.
  * - Uso Graphics2D con antialiasing para que se vea suave.
- * - Explico con comentarios de estudiante cómo pinto cada parte.
  */
 package view;
 
@@ -23,7 +22,7 @@ import java.util.HashSet;
 import java.util.Set;
 import java.awt.image.BufferedImage;
 
-// Panel que pinta el juego. Comentado y con estilo sencillo (2º DAM).
+// Panel que pinta el juego
 // Aquí explico qué hace cada parte para que sea fácil de entender.
 public class GamePanel extends JPanel {
     private final GameModel model;
