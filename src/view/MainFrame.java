@@ -1,4 +1,4 @@
-// Ventana principal - comentarios cortos (2º DAM)
+// Ventana principal -
 package view;
 
 import model.GameModel;
