@@ -1,4 +1,4 @@
-// Controlador principal - comentarios breves (estudiante 2º DAM)
+// Controlador principal 
 package controller;
 
 import model.GameModel;
