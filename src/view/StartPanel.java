@@ -5,7 +5,6 @@ import java.awt.*;
 import java.awt.event.ActionListener;
 
 // Panel de inicio que muestra los controles y un botón START.
-// Comentado como estudiante: explico lo que hace y por qué.
 public class StartPanel extends JPanel {
     private final JButton startButton = new JButton("INICIAR");
 
