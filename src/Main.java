@@ -1,4 +1,4 @@
-// Programa principal - 2º DAM (comentarios cortos y claros)
+// Programa principal 
 import model.GameModel;
 import view.MainFrame;
 import controller.GameController;
