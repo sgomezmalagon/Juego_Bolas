@@ -4,7 +4,6 @@ import javax.swing.*;
 import java.awt.*;
 
 // Panel lateral con botones para controlar el juego. Comentado y sencillo.
-// Aquí explico qué hace cada botón y por qué lo dejamos público.
 public class SidePanel extends JPanel {
     // Botones públicos para que el controlador (GameController) pueda añadir listeners.
     public final JButton addButton = new JButton("Agregar Bola");
