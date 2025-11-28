@@ -1,5 +1,4 @@
 /*
- * GameModel (modelo del juego) - comentarios cortos (2º DAM)
  */
 package model;
 
