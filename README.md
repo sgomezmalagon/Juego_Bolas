@@ -88,12 +88,3 @@ Depuración
 ```powershell
 java -Dgame.debug=true -cp out Main
 ```
-
-Notas del autor
-- Código escrito con estilo de un estudiante de 2º DAM: claro, con comentarios útiles pero no excesivos.
-- Si necesitas que reduzca o aumente el nivel de comentario dímelo.
-
-Si quieres que yo haga el push por ti, explícame si puedes darme acceso remoto (no puedo usar tus credenciales). En su lugar, puedo generar los comandos y un script `publish.ps1` que tú ejecutes.
-
----
-(README actualizado por petición del usuario)
